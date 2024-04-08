@@ -4,6 +4,6 @@
 
 [课程与知识付费](Resources/课程与知识付费.md)
 
-[AI 资源](Resources/AI 资源.md)
+[AI资源](Resources/AI资源.md)
 
 [行业信息](Resources/行业信息.md)
