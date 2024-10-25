@@ -12,17 +12,6 @@
 - [泡在网上的日子](http://www.jcodecraeer.com/)
 - [开发技术前线](http://www.devtf.cn/)
 
-## 资源导航
-
-- [codeKK](http://p.codekk.com/)
-- [极客导航](http://www.jikedaohang.com/index.html)
-- [AndroidCat](http://androidcat.com/?step=12&view=CatFragment)
-- [玩android](http://xueandroid.com/index)
-- [MobDevGroup](http://mobdevgroup.com/)
-- [小林coding](https://xiaolincoding.com/)
-- [帅地玩编程](https://www.iamshuaidi.com/)
-- [技术派](https://paicoding.com/)
-
 ## GitHub 统计
 
 - [GitHuber](https://githuber.cn/)
